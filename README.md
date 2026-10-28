@@ -1,2 +1,6 @@
 # project1
-Hello Everyone
+#include<stdio.h>
+int main() {
+printf("Hello World");
+return 0;
+}
